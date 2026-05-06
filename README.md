@@ -1,6 +1,21 @@
 # csca-5622-final-project
 CSCA-5622 Introduce to machine learning: Supervised Learning final project.
 
+---
+
+## Academic Integrity Notice
+All materials in this repository are my own work and are shared for reference purposes only.
+
+You must **not copy, submit, or present any part of this work as your own** in any academic setting. Doing so may violate your institution’s academic integrity policies.
+
+---
+
+## Disclaimer
+I am **not responsible** for any misuse of the content in this repository.  
+Use this material at your own risk and ensure you follow your school or organization’s rules.
+
+---
+
 # Credit Card Default Prediction (Final ML Project)
 
 This repository contains my final project for **Introduction to Machine Learning: Supervised Learning**.  
@@ -43,3 +58,7 @@ The goal is to predict whether a credit card client will default on their next m
    jupyter notebook
 4. Open csca-5622-final-project.ipynb and run all cells.
 
+---
+
+## Author
+PJ CH
